@@ -1,0 +1,19 @@
+/**
+ * @name Anicord
+ * @description Yes, this is another anime Discord theme. 
+ * @author sangsdayy
+ * @version 1.5.8
+ * @website https://github.com/sang765/Anicord-Theme
+ * @source https://github.com/sang765/Anicord-Theme/blob/main/Anicord.theme.css
+ * @authorId 926519119849869322
+*/
+
+/* I add info theme for Vencord online theme. Please don't care it */
+
+/* FONT IMPORT */
+@import url('https://sang765.github.io/Anicord-Theme/themes/fonts.css');
+/* ADDONS IMPORT */
+@import url('https://raw.githubusercontent.com/faoncsas4/moon/refs/heads/main/addons.css');
+/* THEME IMPORT */
+/*dark mode*/
+@import url('https://raw.githubusercontent.com/faoncsas4/moon/refs/heads/main/Anicord.dark.css');
